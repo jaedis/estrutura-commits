@@ -1,4 +1,4 @@
-# estutura-commits
+# estrutura-commits
 
 Bem-vindo a estrutura-commits
 
